@@ -1,4 +1,4 @@
-# Brigadu Eu
+# Brigado Eu
 
 **Brigado Eu** é um projeto idealizado por [Leo Baiano](https://github.com/leobaiano) e [Ted'k](https://github.com/tedktedk).
 
